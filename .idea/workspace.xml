@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150df2db-d322-468d-bbfb-ece20634a693" name="Default Changelist" comment="" />
+    <list default="true" id="150df2db-d322-468d-bbfb-ece20634a693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,16 +21,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.ebextensions/django.config">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -69,8 +71,8 @@
         <option value="$PROJECT_DIR$/ebdjango/settings.py" />
         <option value="$PROJECT_DIR$/.ebextensions/myappp.config" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/.ebextensions/django.config" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -93,11 +95,6 @@
             <path>
               <item name="ebdjango" type="b2602c69:ProjectViewProjectNode" />
               <item name="ebdjango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ebdjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebdjango" type="462c0819:PsiDirectoryNode" />
-              <item name=".ebextensions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,12 +164,12 @@
       <updated>1563626008074</updated>
       <workItem from="1563626010505" duration="1664000" />
       <workItem from="1563701266438" duration="8305000" />
-      <workItem from="1564054642753" duration="2397000" />
+      <workItem from="1564054642753" duration="3182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12366000" />
+    <option name="totallyTimeSpent" value="13151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
@@ -243,15 +240,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ebextensions/django.config">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
